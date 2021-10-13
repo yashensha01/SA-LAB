@@ -4,5 +4,5 @@ read b
 #c=$(expr $a + $b)
 #c=`expr $a + $b`
 c=$(($a+$b))
-echo "Sum of Numbers "$c 
+echo "Sum of Numbers "$c
 
